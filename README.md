@@ -77,7 +77,7 @@ EXAM-MASTER 是一个基于 FastAPI 构建的现代化题库管理系统后端AP
 
 1. **克隆仓库**
    ```bash
-   git clone https://github.com/yourusername/EXAM-MASTER.git
+   git clone https://github.com/longxingdeng/EXAM-MASTER.git
    cd EXAM-MASTER/backend
    ```
 
